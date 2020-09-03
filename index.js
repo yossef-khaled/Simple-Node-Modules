@@ -12,16 +12,10 @@ function solveRect(length, width) {
             console.log(`The area of the rectangle is ${rect.area()}`);
             console.log("------------------------------------------");
         }
-    } 
-    )
-    
-    if(length <= 0 || width <= 0) {
-        console.log();
-    }
-    else {
-    }  
+    });
 }
+console.log("This statement is written in the end of the code, but shown in the log first");
 
-// solveRect(2, 4);
-// solveRect(-6, -1);
-// solveRect(0, 5);
+solveRect(2, 4);
+solveRect(-6, -1);
+solveRect(0, 5);
