@@ -22,6 +22,6 @@ function solveRect(length, width) {
     }  
 }
 
-solveRect(2, 4);
-solveRect(-6, -1);
-solveRect(0, 5);
+// solveRect(2, 4);
+// solveRect(-6, -1);
+// solveRect(0, 5);
